@@ -11,5 +11,10 @@ Na aula 1 em 23/02/2023 foram abordados os seguintes assuntos:
 Na aula 2 em 24/02/2023 foram abordados os seguintes assuntos:
 - Operadores lógicos ou booleanos
 - Manipulando Strings
-- Estruturas de condição
+- Estruturas de condição (if e else)
 - Atividades
+
+Na aula 3 em 27/02/2023 foram abordados os seguintes assuntos:
+- Correção dos exercícios da aula 2
+- Estruturas de condição (if, elif, else)
+- Atividades e correção
