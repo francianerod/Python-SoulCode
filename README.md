@@ -18,3 +18,7 @@ Na aula 3 em 27/02/2023 foram abordados os seguintes assuntos:
 - Correção dos exercícios da aula 2
 - Estruturas de condição (if, elif, else)
 - Atividades e correção
+- Estrutura de repetição: While
+
+Na aula 4 em 28/02/2023 foram abordados os seguintes assuntos
+- Exercícios da Estrutura de repetição: While
