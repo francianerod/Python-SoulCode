@@ -22,3 +22,18 @@ Na aula 3 em 27/02/2023 foram abordados os seguintes assuntos:
 
 Na aula 4 em 28/02/2023 foram abordados os seguintes assuntos
 - Exercícios da Estrutura de repetição: While
+
+Na aula 5 em 01/03/2023 foram abordados os seguintes assuntos
+- Contéudo e exercícios da Estrutura de repetição: For
+- Estrutura de dados: Lista
+
+Na aula 6 em 02/03/2023 foram abordados os seguintes assuntos
+- Contéudo e exercícios da Estrutura de dados: Lista
+- Estrutura de dados: Tupla
+- Estrutura de dados: Dicionário
+
+Na aula 7 em 07/03/2023 foram abordados os seguintes assuntos
+- Conteúdo de Dicionário
+- Conteúdo de Funções
+- Atividades em sala de funções
+- Tarefa de funções
