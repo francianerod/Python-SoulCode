@@ -32,7 +32,7 @@ Na aula 6 em 02/03/2023 foram abordados os seguintes assuntos
 - Estrutura de dados: Tupla
 - Estrutura de dados: Dicionário
 
-Na aula 7 em 07/03/2023 foram abordados os seguintes assuntos
+Na aula 7 em 03/03/2023 foram abordados os seguintes assuntos
 - Conteúdo de Dicionário
 - Conteúdo de Funções
 - Atividades em sala de funções
